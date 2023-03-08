@@ -16,27 +16,27 @@
 
 ## Навыки:
 
-> HTML, CSS
+- HTML, CSS
 
-- Адаптивная вёрстка
-- Использование методологии верстки БЭМ
-- Владение Flex-box, Grid Layout
+  - Адаптивная вёрстка
+  - Использование методологии верстки БЭМ
+  - Владение Flex-box, Grid Layout
 
-> Java Script
+- JavaScript
 
-> React
+- React
 
-> Работа с Git и GitHub
+- Работа с Git и GitHub
 
 ## Примеры работ:
 
 **Проект Mesto**
 
-- [Ссылка на репозиторий проекта](https://github.com/NatalieSolts/mesto)
+> [Ссылка на репозиторий проекта](https://github.com/NatalieSolts/mesto)
 
 **Сайт проекта**
 
-- [Ссылка на сайт проекта](https://nataliesolts.github.io/mesto/)
+> [Ссылка на сайт проекта](https://nataliesolts.github.io/mesto/)
 
 ## Образование:
 
@@ -45,4 +45,6 @@
 
 ## Связаться со мной:
 
-> [Telegram](t.me/natalia_solts)
+**Telegram:** t.me/natalia_solts
+
+**E-mail:** mrs.solts@mail.ru
